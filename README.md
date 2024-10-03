@@ -1,2 +1,2 @@
 # va disability calculator
- Calculator to determine disability compensation
+ Calculator to determine VA disability compensation based on rating
